@@ -1,0 +1,36 @@
+/* Definindo as cores para o layout */ 
+body {
+  background-color:#ccc;
+  text-align: justify;
+  letter-spacing: 1px;
+}
+
+/* Estilo dos cabeçalhos */ h1, h2, h3, h4, h5, h6 { 
+  text-align: center;
+  color: #6C733D; }
+
+/* Estilo das listas */ ol li, ul li { color: #9DA65D; }
+
+/* Estilo dos links */ a { color: #8C8C88; text-decoration: none; }
+
+/* Estilo das citações */ blockquote { 
+  color: #202426; background-color: #F2F2F2; border-left: 3px solid #9DA65D; margin-left: 0; padding-left: 1em; }
+
+/* Estilo dos elementos de destaque */ mark, strong { color: #202426; background-color: #9DA65D; }
+
+/* Estilo dos elementos em itálico */ i, small { font-style: italic; }
+
+/* Estilo dos elementos em negrito */ b, strong { font-weight: bold; }
+
+/* Estilo dos elementos sublinhados */ u { text-decoration: underline; }
+
+/* Estilo dos elementos em subscrito e sobrescrito */ sub, sup { font-size: 0.8em; }
+
+/* Estilo da linha horizontal */ hr { border: none; border-top: 2px solid #6C733D; height: 1px; margin: 1em 0; }
+
+/* Estilo das abreviações */ abbr { border-bottom: 1px dotted #8C8C88; cursor: help; }
+
+/* Estilo do texto removido */ del { color: #8C8C88; }
+
+/* Estilo do texto pequeno */ small { font-size: 0.8em; }
+
