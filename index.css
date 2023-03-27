@@ -14,7 +14,10 @@ body {
 /* Estilo dos links */ a { color: #8C8C88; text-decoration: none; }
 
 /* Estilo das citações */ blockquote { 
-  color: #202426; background-color: #F2F2F2; border-left: 3px solid #9DA65D; margin-left: 0; padding-left: 1em; }
+  color: #202426; 
+  background-color: #F2F2F2;
+  border-left: 3px solid #9DA65D; 
+  margin-left: 0; padding-left: 1em; }
 
 /* Estilo dos elementos de destaque */ mark, strong { color: #202426; background-color: #9DA65D; }
 
